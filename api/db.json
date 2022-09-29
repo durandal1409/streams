@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "ny",
+      "description": "dd",
+      "id": 1
+    },
+    {
+      "title": "stream 4.1",
+      "description": "descr for stream 4.1",
+      "id": 4
+    },
+    {
+      "title": "next stream",
+      "description": "next stream descr",
+      "userId": "115655607743267082929",
+      "id": 5
+    }
+  ]
+}
